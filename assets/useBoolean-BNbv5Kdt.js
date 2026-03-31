@@ -1,0 +1,1 @@
+import{v as t}from"./index-Df6-4-0p.js";function c(o=!1){const e=t(o);return{bool:e,setBool:s=>{e.value=s},setTrue:()=>{e.value=!0},setFalse:()=>{e.value=!1},toggle:()=>{e.value=!e.value}}}export{c as u};
